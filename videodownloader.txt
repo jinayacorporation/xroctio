@@ -12,19 +12,19 @@
 "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 ],
 "admob_appopen_ad_id": [
-"/6499/example/app_open_new"
+"0|0|0|/6499/example/app_open_new"
 ],
 "admob_banner_ad_id": [
-"/6499/example/banner"
+"0|0|0|/6499/example/banner"
 ],
 "admob_bottom_native_ad_id": [
-"/6499/example/native"
+"0|0|0|/6499/example/native"
 ],
 "admob_interstitial_ad_id": [
-"/6499/example/interstitial"
+"0|0|0|/6499/example/interstitial"
 ],
 "admob_native_ad_id": [
-"/6499/example/native"
+"0|0|0|/6499/example/native"
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
@@ -71,14 +71,14 @@
 "blockcsv": [
 "Gujarat"
 ],
-"vpn_show": true,
+"vpn_show": false,
   "vpn_id": "touchvpn",
   "vpn_passsword": "true",
   "vpn_direct_connect": true,
   "vpn_random_server": true,
   "vpn_main_show": true,
-  "vpn_country_name": "",
-  "vpn_country_code": "",
+  "vpn_country_name": "United States",
+  "vpn_country_code": "US",
   "vpn_thumbnail_url": "",
   "vpn_url_type": true,
   "vpn_url_arrays": [
