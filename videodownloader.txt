@@ -69,11 +69,9 @@
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
 "blockcsv": [
-"Surat",
-"India", 
-"Gujarat"
+"ds"
 ],
-"vpn_show": false,
+"vpn_show": true,
   "vpn_id": "touchvpn",
   "vpn_passsword": "hello",
   "vpn_direct_connect": false,
