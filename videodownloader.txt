@@ -1,43 +1,43 @@
 {
 "facebook_banner_ad_id": [
-"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_bottom_native_ad_id": [
-"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_interstitial_ad_id": [
-"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_native_ad_id": [
-"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+""
 ],
 "admob_appopen_ad_id": [
-"/6499/example/app_open_new"
+""
 ],
 "admob_banner_ad_id": [
-"/6499/example/banner"
+""
 ],
 "admob_bottom_native_ad_id": [
-"/6499/example/native"
+""
 ],
 "admob_interstitial_ad_id": [
-"/6499/example/interstitial"
+""
 ],
 "admob_native_ad_id": [
-"/6499/example/native"
+""
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
-"ads_click": 1,
-"back_click": 1,
-"native_page_wise": 1,
-"bottom_page_wise": 1,
+"ads_click": 0,
+"back_click": 0,
+"native_page_wise": 0,
+"bottom_page_wise": 0,
 "one_id_load_thay_hoy_ne": false,
 "is_live": false,
 "gallery_show": true,
-"video_call_show": true,
-"video_player_show": true,
-"downloader_show": true,
+"video_call_show": false,
+"video_player_show": false,
+"downloader_show": false,
 "emergency": false,
 "version_code": "1",
 "version_name": "1",
@@ -52,9 +52,9 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 5,
+"starting_screen_content_show": 0,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
-"ads_button_animation": true,
+"ads_button_animation": false,
 "Message": "Please Update Our App.",
 "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
 "ads_animation_type": "zoominout",
@@ -65,14 +65,14 @@
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
 "blockcsv": [
-"Gujarat"
+""
 ],
-"vpn_show": true,
+"vpn_show": false,
   "vpn_id": "touchvpn",
   "vpn_passsword": "true",
-  "vpn_direct_connect": true,
-  "vpn_random_server": true,
-  "vpn_main_show": true,
+  "vpn_direct_connect": false,
+  "vpn_random_server": false,
+  "vpn_main_show": false,
   "vpn_country_name": "United States",
   "vpn_country_code": "US",
   "vpn_thumbnail_url": "",
