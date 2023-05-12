@@ -67,7 +67,7 @@
 "blockcsv": [
 "India"
 ],
-"vpn_show": false,
+"vpn_show": true,
   "vpn_id": "touchvpn",
   "vpn_passsword": "true",
   "vpn_direct_connect": true,
