@@ -27,7 +27,7 @@
 "/6499/example/native"
 ],
 "ads_type": "admob",
-"bottom_ads_type": "nativebanner",
+"bottom_ads_type": "banner",
 "ads_click": 0,
 "back_click": 0,
 "native_page_wise": 0,
@@ -67,7 +67,7 @@
 "blockcsv": [
 "India"
 ],
-"vpn_show": true,
+"vpn_show": false,
   "vpn_id": "touchvpn",
   "vpn_passsword": "true",
   "vpn_direct_connect": true,
