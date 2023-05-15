@@ -62,5 +62,12 @@
 "adapter_ads_type": "nativebanner",
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "1",
-"app_open_interstitial_back_click": "1"
+"app_open_interstitial_back_click": "1",
+"mirror_image": true,
+"mirror_video": true,
+"mirror_audio": true,
+"mirror_youtube": true,
+"mirror_webbrowser": true,
+"mirror_screen_mirroring": true,
+"mirror_remote_control": true
 }
