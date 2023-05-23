@@ -12,19 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-"/22888924408/instagramvideo.downloaderphoto.privatebrowser.alldownloader/codefixer_app_open"
+"/22903425359/instagramvideo.downloaderphoto.privatebrowser.alldownloader/avstudio_app_open"
 ],
 "admob_banner_ad_id": [
-"/22888924408/instagramvideo.downloaderphoto.privatebrowser.alldownloader/codefixer_Banner"
+"/22903425359/instagramvideo.downloaderphoto.privatebrowser.alldownloader/Avstudio_banner"
 ],
 "admob_bottom_native_ad_id": [
-"/22888924408/instagramvideo.downloaderphoto.privatebrowser.alldownloader/codefixer_native"
+"/22903425359/instagramvideo.downloaderphoto.privatebrowser.alldownloader/avstudio_native"
 ],
 "admob_interstitial_ad_id": [
-"/22888924408/instagramvideo.downloaderphoto.privatebrowser.alldownloader/codefixer_interstatial"
+"/22903425359/instagramvideo.downloaderphoto.privatebrowser.alldownloader/Avstudio_interstatial"
 ],
 "admob_native_ad_id": [
-"/22888924408/instagramvideo.downloaderphoto.privatebrowser.alldownloader/codefixer_native"
+"/22903425359/instagramvideo.downloaderphoto.privatebrowser.alldownloader/avstudio_native"
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
