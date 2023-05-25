@@ -38,7 +38,6 @@
 "video_call_show": true,
 "video_player_show": true,
 "wallpaper_show": true,
-"gallery_show": true,
 "private_show": true,
 "favourite_show": true,
 "saved_show": true,
