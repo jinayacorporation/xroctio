@@ -12,7 +12,6 @@
 ""
 ],
 "admob_appopen_ad_id": [
-"0",
 "/6499/example/app_open_new"
 ],
 "admob_banner_ad_id": [
@@ -53,7 +52,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 0,
+"starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
