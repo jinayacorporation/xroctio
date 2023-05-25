@@ -12,24 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-"0",
-"/6499/example/app_open_new"
+"0"
 ],
 "admob_banner_ad_id": [
-"0",
-"/6499/example/banner"
+"0"
 ],
 "admob_bottom_native_ad_id": [
-"0",
-"/6499/example/native"
+"0"
 ],
 "admob_interstitial_ad_id": [
-"0",
-"/6499/example/interstitial"
+"0"
 ],
 "admob_native_ad_id": [
-"0",
-"/6499/example/native"
+"0"
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
