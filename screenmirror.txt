@@ -12,19 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-""
+"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Apopen"
 ],
 "admob_banner_ad_id": [
-""
+"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_banner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Native"
 ],
 "admob_interstitial_ad_id": [
-""
+"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_interstatial"
 ],
 "admob_native_ad_id": [
-""
+"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Native"
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
@@ -34,10 +34,10 @@
 "bottom_page_wise": 0,
 "one_id_load_thay_hoy_ne": false,
 "is_live": false,
-"gallery_show": false,
-"video_call_show": false,
-"video_player_show": false,
-"downloader_show": false,
+"gallery_show": true,
+"video_call_show": true,
+"video_player_show": true,
+"downloader_show": true,
 "emergency": false,
 "version_code": "1",
 "version_name": "1",
@@ -52,7 +52,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 1,
+"starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
@@ -63,11 +63,11 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "1",
 "app_open_interstitial_back_click": "1",
-"mirror_image": false,
-"mirror_video": false,
-"mirror_audio": false,
+"mirror_image": true,
+"mirror_video": true,
+"mirror_audio": true,
 "mirror_youtube": false,
 "mirror_webbrowser": false,
 "mirror_screen_mirroring": true,
-"mirror_remote_control": false
+"mirror_remote_control": true
 }
