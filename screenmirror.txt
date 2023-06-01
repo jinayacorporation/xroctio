@@ -3,13 +3,13 @@
 ""
 ],
 "facebook_bottom_native_ad_id": [
-""
+"655241363112029_655243186445180"
 ],
 "facebook_interstitial_ad_id": [
-""
+"655241363112029_655242673111898"
 ],
 "facebook_native_ad_id": [
-""
+"655241363112029_655243086445190"
 ],
 "admob_appopen_ad_id": [
 "/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Apopen"
