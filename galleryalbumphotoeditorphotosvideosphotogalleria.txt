@@ -12,19 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-  ""
+  "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/codefixer_App_open"
 ],
 "admob_banner_ad_id": [
-  ""
+  "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/Codefixer_Banner"
 ],
 "admob_bottom_native_ad_id": [
-  ""
+  "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/codefixer_Native"
 ],
 "admob_interstitial_ad_id": [
-  ""
+  "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/codefixer_interstatial"
 ],
 "admob_native_ad_id": [
-  ""
+  "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/codefixer_Native"
 ],
 "ads_type": "admob",
 "bottom_ads_type": "nativebanner",
