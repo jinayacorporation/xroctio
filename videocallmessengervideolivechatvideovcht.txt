@@ -40,7 +40,7 @@
 "back_click": 0,
 "native_page_wise": 0,
 "bottom_page_wise": 0,
-"app_open_interstitial_show": "true",
+"app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
 "one_id_load_thay_hoy_ne": true,
