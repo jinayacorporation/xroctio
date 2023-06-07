@@ -3,13 +3,13 @@
 ""
 ],
 "facebook_bottom_native_ad_id": [
-""
+"574045994629359_574047591295866"
 ],
 "facebook_interstitial_ad_id": [
-""
+"574045994629359_574047247962567"
 ],
 "facebook_native_ad_id": [
-""
+"574045994629359_574047484629210"
 ],
 "admob_appopen_ad_id": [
   "/22888924408/galleryalbum.photoeditor.photosvideos.photogalleria/codefixer_App_open"
