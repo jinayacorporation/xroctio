@@ -12,19 +12,19 @@
 "655241363112029_655243086445190"
 ],
 "admob_appopen_ad_id": [
-"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Apopen"
+"/22937672924/screenmirroring.fastscreentv.miracasttv.screencasttv/Boli_Infotech_App_open"
 ],
 "admob_banner_ad_id": [
-"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_banner"
+"/22937672924/screenmirroring.fastscreentv.miracasttv.screencasttv/Boli_Infotech_Banner"
 ],
 "admob_bottom_native_ad_id": [
-"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Native"
+"/22937672924/screenmirroring.fastscreentv.miracasttv.screencasttv/Boli_Infotech_Native"
 ],
 "admob_interstitial_ad_id": [
-"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_interstatial"
+"/22937672924/screenmirroring.fastscreentv.miracasttv.screencasttv/Boli_Infotech_Interstatial"
 ],
 "admob_native_ad_id": [
-"/22888924408/screenmirroring.fastscreentv.miracasttv.screencasttv/Avstudio_Native"
+"/22937672924/screenmirroring.fastscreentv.miracasttv.screencasttv/Boli_Infotech_Native"
 ],
 "ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
