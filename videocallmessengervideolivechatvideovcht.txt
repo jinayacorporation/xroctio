@@ -84,7 +84,7 @@
 "quizzo_link": "https://play714.atmequiz.com/start",
 "quizzo_show": true,
 "quizzo_header_show": false,
-"redirect": false,
+"redirect": true,
 "id_failed_load_or_not": true,
 "gallery_show": true,
 "video_call_show": true,
