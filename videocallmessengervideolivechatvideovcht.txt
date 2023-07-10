@@ -64,7 +64,7 @@
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
-"quizzo_show": true,
+"quizzo_show": false,
 "quizzo_header_show": false,
 "redirect": false,
 "id_failed_load_or_not": true,
@@ -93,7 +93,7 @@
 "Message": "Please Update Our App.",
 "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
 "ads_animation_type": "zoominout",
-"adapter_ads": true,
+"adapter_ads": false,
 "adapter_ads_type": "native",
 "app_certificate": "b162db84a6364e9ea1c65bb3e68157a3",
 "agora_app_id": "18b95c0e05714c71b28490bbda46205c"
