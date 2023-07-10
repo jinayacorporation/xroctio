@@ -1,15 +1,15 @@
 {
 "facebook_banner_ad_id": [
-""
+"2141334969396036_2141335859395947"
 ],
 "facebook_bottom_native_ad_id": [
-""
+"2141334969396036_2141336139395919"
 ],
 "facebook_interstitial_ad_id": [
-""
+"2141334969396036_2141336019395931"
 ],
 "facebook_native_ad_id": [
-""
+"2141334969396036_2141336139395919"
 ],
 "admob_appopen_ad_id": [
 ""
@@ -26,7 +26,7 @@
 "admob_native_ad_id": [
 ""
 ],
-"orginic_ads_type": "admob",
+"orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
 "orginic_facebook_page_wise": false,
 "orginic_facebook_native_ads_click": 1,
@@ -43,7 +43,7 @@
 "orginic_app_open_interstitial_show": "false",
 "orginic_app_open_interstitial_ads_click": "0",
 "orginic_app_open_interstitial_back_click": "0",
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "facebook_page_wise": false,
 "facebook_native_ads_click": 1,
@@ -51,7 +51,7 @@
 "facebook_interstitial_ads_click": 1,
 "facebook_interstitial_back_click": 1,
 "facebook_banner_ads_click": 1,
-"ads_show_type": "load",
+"ads_show_type": "preload",
 "native_banner_show": true,
 "ads_click": 0,
 "back_click": 0,
@@ -60,7 +60,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": true,
+"ads_free": false,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
