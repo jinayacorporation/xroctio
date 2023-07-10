@@ -71,7 +71,7 @@
 "gallery_show": true,
 "video_call_show": true,
 "video_player_show": true,
-"downloader_show": true,
+"downloader_show": false,
 "privacy_screen": false,
 "emergency": false,
 "version_code": "1",
