@@ -1,16 +1,20 @@
 {
   "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
   "facebook_banner_ad_id": [
-    ""
+    "0",
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_bottom_native_ad_id": [
-    ""
+    "0",
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_interstitial_ad_id": [
-    ""
+    "0",
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_native_ad_id": [
-    ""
+    "0",
+    "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
     "0",
