@@ -1,15 +1,15 @@
 {
 "facebook_banner_ad_id": [
-"2141334969396036_2141335859395947"
+""
 ],
 "facebook_bottom_native_ad_id": [
-"2141334969396036_2141336139395919"
+""
 ],
 "facebook_interstitial_ad_id": [
-"2141334969396036_2141336019395931"
+""
 ],
 "facebook_native_ad_id": [
-"2141334969396036_2141336139395919"
+""
 ],
 "admob_appopen_ad_id": [
 ""
@@ -34,7 +34,7 @@
 "orginic_facebook_interstitial_ads_click": 1,
 "orginic_facebook_interstitial_back_click": 1,
 "orginic_facebook_banner_ads_click": 1,
-"orginic_ads_show_type": "load",
+"orginic_ads_show_type": "preload",
 "orginic_native_banner_show": true,
 "orginic_ads_click": 0,
 "orginic_back_click": 0,
@@ -65,13 +65,13 @@
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
 "quizzo_show": true,
-"quizzo_header_show": false,
+"quizzo_header_show": true,
 "redirect": true,
 "id_failed_load_or_not": true,
 "gallery_show": true,
 "video_call_show": true,
 "video_player_show": true,
-"downloader_show": false,
+"downloader_show": true,
 "privacy_screen": false,
 "emergency": false,
 "version_code": "1",
