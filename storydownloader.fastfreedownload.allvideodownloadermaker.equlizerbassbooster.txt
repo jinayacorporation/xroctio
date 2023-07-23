@@ -84,7 +84,6 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
-
   "starting_screen_content_show": 5,
   "organic_starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
@@ -94,7 +93,7 @@
   "quizzo_show": true,
   "quizzo_header_show": true,
   "redirect": true,
-  "quiz_show_after_inter": true,
+  "quiz_show_after_inter": false,
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
   "ads_animation_type": "zoominout",
   "adapter_ads": false,
