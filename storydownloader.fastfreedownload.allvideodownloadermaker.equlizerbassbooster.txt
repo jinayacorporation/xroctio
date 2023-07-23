@@ -64,7 +64,7 @@
   "one_id_load_thay_hoy_ne": true,
   "facebook_back_ads_not_show": false,
   "is_live": true,
-  "gallery_show": false,
+  "gallery_show": true,
   "video_call_show": true,
   "video_player_show": true,
   "downloader_show": true,
