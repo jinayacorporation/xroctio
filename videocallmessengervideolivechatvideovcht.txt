@@ -60,7 +60,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": false,
+"ads_free": true,
 "one_id_load_thay_hoy_ne": true,
 "is_live": false,
 "quizzo_link": "https://play776.atmequiz.com/start",
