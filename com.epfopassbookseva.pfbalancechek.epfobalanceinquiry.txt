@@ -2,41 +2,50 @@
   "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
   "facebook_banner_ad_id": [
     "0",
+    "0",
     "YOUR_PLACEMENT_ID"
   ],
   "facebook_bottom_native_ad_id": [
+    "0",
     "0",
     "YOUR_PLACEMENT_ID"
   ],
   "facebook_interstitial_ad_id": [
     "0",
+    "0",
     "YOUR_PLACEMENT_ID"
   ],
   "facebook_native_ad_id": [
+    "0",
     "0",
     "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
     "0",
+    "0",
     "/6499/example/app_open_new"
   ],
   "admob_banner_ad_id": [
     "0",
+    "0",
     "/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-     "0",
+    "0",
+    "0",
     "/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
+    "0",
     "0",
     "/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
     "0",
+    "0",
     "/6499/example/native"
   ],
-  "orginic_ads_type": "admob",
+  "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
   "orginic_facebook_page_wise": false,
   "orginic_facebook_native_ads_click": 1,
@@ -44,7 +53,7 @@
   "orginic_facebook_interstitial_ads_click": 1,
   "orginic_facebook_interstitial_back_click": 1,
   "orginic_facebook_banner_ads_click": 1,
-  "orginic_ads_show_type": "preload",
+  "orginic_ads_show_type": "load",
   "orginic_native_banner_show": true,
   "orginic_ads_click": 0,
   "orginic_back_click": 0,
@@ -53,7 +62,7 @@
   "orginic_app_open_interstitial_show": "false",
   "orginic_app_open_interstitial_ads_click": "0",
   "orginic_app_open_interstitial_back_click": "0",
-  "ads_type": "admob",
+  "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
   "facebook_page_wise": false,
   "facebook_native_ads_click": 1,
@@ -70,14 +79,14 @@
   "app_open_interstitial_show": "false",
   "app_open_interstitial_ads_click": "0",
   "app_open_interstitial_back_click": "0",
-  "ads_free": true,
   "one_id_load_thay_hoy_ne": true,
+  "facebook_back_ads_not_show": false,
   "is_live": true,
-  "quizzo_link": "https://play771.atmegame.com",
-  "quizzo_show": true,
-  "quizzo_header_show": false,
-  "redirect": true,
-  "id_failed_load_or_not": true,
+  "gallery_show": true,
+  "video_call_show": true,
+  "video_player_show": true,
+  "downloader_show": true,
+  "privacy_screen": true,
   "emergency": false,
   "version_code": "1",
   "version_name": "1",
@@ -86,18 +95,30 @@
   "facebook_ads_native_in_txt_color": "#000000",
   "facebook_ads_native_text_color": "#ffffff",
   "admob_native_bg_color": "#ffffff",
-  "admob_native_btn_color": "#E61B7C",
+  "admob_native_btn_color": "#E9800A",
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#000000",
   "analytics": false,
+  "ads_free": true,
   "coming_soon": true,
   "update_coming_soon": false,
+  "ads_failed_load_hoy_ne": false,
   "starting_screen_content_show": 0,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
+  "quizzo_link": "https://play776.atmequiz.com/start",
+  "quizzo_show": true,
+  "quizzo_header_show": true,
+  "redirect": false,
+  "quiz_show_after_inter": false,
+  "organic_redirect": true,
+  "organic_quiz_show_after_inter": true,
+  "organic_starting_screen_content_show": 5,
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
   "ads_animation_type": "zoominout",
-  "adapter_ads": false,
-  "adapter_ads_type": "native"
+  "adapter_ads": true,
+  "adapter_ads_type": "native",
+  "app_certificate": "b162db84a6364e9ea1c65bb3e68157a3",
+  "agora_app_id": "18b95c0e05714c71b28490bbda46205c"
 }
