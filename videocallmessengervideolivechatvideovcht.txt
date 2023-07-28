@@ -18,6 +18,7 @@
 "/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_banner"
 ],
 "admob_bottom_native_ad_id": [
+"0",
 "/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
 ],
 "admob_interstitial_ad_id": [
