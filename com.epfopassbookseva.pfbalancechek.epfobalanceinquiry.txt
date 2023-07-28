@@ -1,24 +1,16 @@
 {
   "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
   "facebook_banner_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "806983300884261_806985130884078"
   ],
   "facebook_bottom_native_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "806983300884261_806985207550737"
   ],
   "facebook_interstitial_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "806983300884261_806985174217407"
   ],
   "facebook_native_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "806983300884261_806985207550737"
   ],
   "admob_appopen_ad_id": [
     "0",
@@ -99,8 +91,8 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#000000",
   "analytics": false,
-  "ads_free": true,
-  "coming_soon": true,
+  "ads_free": false,
+  "coming_soon": false,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
   "starting_screen_content_show": 0,
