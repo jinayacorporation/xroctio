@@ -12,19 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-""
+"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_openapp"
 ],
 "admob_banner_ad_id": [
-""
+"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_banner"
 ],
 "admob_bottom_native_ad_id": [
-""
+"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
 ],
 "admob_interstitial_ad_id": [
-""
+"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_interstitial"
 ],
 "admob_native_ad_id": [
-""
+"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
@@ -64,7 +64,7 @@
 "one_id_load_thay_hoy_ne": true,
 "is_live": false,
 "quizzo_link": "https://play776.atmequiz.com/start",
-"quizzo_show": false,
+"quizzo_show": true,
 "quizzo_header_show": false,
 "redirect": false,
 "id_failed_load_or_not": true,
