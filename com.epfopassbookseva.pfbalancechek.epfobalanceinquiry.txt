@@ -13,19 +13,19 @@
     "806983300884261_806985207550737"
   ],
   "admob_appopen_ad_id": [
-    "0"
+    "/22798352804,22854404648/CW_com.epfopassbook_OpenApp"
   ],
   "admob_banner_ad_id": [
-    "0"
+    "/22798352804,22854404648/CW_com.epfopassbook_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    "0"
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "admob_interstitial_ad_id": [
-    "0"
+    "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
