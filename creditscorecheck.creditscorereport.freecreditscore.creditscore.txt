@@ -1,7 +1,7 @@
 {
   "package": "creditscorecheck.creditscorereport.freecreditscore.creditscore",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_IDS"
+    "YOUR_PLACEMENT_ID"
   ],
   "facebook_bottom_native_ad_id": [
     "YOUR_PLACEMENT_ID"
@@ -81,7 +81,7 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#000000",
   "analytics": false,
-  "ads_free": true,
+  "ads_free": false,
   "coming_soon": true,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
