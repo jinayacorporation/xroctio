@@ -21,6 +21,7 @@
 "/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
 ],
 "admob_interstitial_ad_id": [
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_INT",
 "/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_interstitial"
 ],
 "admob_native_ad_id": [
