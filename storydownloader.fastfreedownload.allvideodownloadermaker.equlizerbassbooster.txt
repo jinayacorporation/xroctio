@@ -1,49 +1,31 @@
 {
   "package": "storydownloader.fastfreedownload.allvideodownloadermaker.equlizerbassbooster",
   "facebook_banner_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "0"
   ],
   "facebook_bottom_native_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "0"
   ],
   "facebook_interstitial_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "0"
   ],
   "facebook_native_ad_id": [
-    "0",
-    "0",
-    "YOUR_PLACEMENT_ID"
+    "0"
   ],
   "admob_appopen_ad_id": [
-    "0",
-    "0",
-    "/6499/example/app_open_new"
+    "0"
   ],
   "admob_banner_ad_id": [
-    "0",
-    "0",
-    "/6499/example/banner"
+    "0"
   ],
   "admob_bottom_native_ad_id": [
-    "0",
-    "0",
-    "/6499/example/native"
+    "0"
   ],
   "admob_interstitial_ad_id": [
-    "0",
-    "0",
-    "/6499/example/interstitial"
+    "0"
   ],
   "admob_native_ad_id": [
-    "0",
-    "0",
-    "/6499/example/native"
+    "0"
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
@@ -82,8 +64,8 @@
   "one_id_load_thay_hoy_ne": true,
   "facebook_back_ads_not_show": false,
   "is_live": true,
-  "gallery_show": true,
-  "video_call_show": true,
+  "gallery_show": false,
+  "video_call_show": false,
   "video_player_show": true,
   "downloader_show": true,
   "privacy_screen": true,
@@ -100,7 +82,7 @@
   "admob_native_context_text_color": "#000000",
   "analytics": false,
   "ads_free": true,
-  "coming_soon": true,
+  "coming_soon": false,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
   "starting_screen_content_show": 0,
@@ -114,7 +96,7 @@
   "quiz_show_after_inter": false,
   "organic_redirect": true,
   "organic_quiz_show_after_inter": true,
-  "organic_starting_screen_content_show": 5,
+  "organic_starting_screen_content_show": 0,
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
