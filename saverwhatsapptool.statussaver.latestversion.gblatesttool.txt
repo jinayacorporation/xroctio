@@ -87,6 +87,7 @@
   "main_designer_font": true,
   "export_contact": true,
   "bulk_message": true,
+  "application_id": "dsfsf",
   "ads_free": false,
   "coming_soon": true,
   "update_coming_soon": false,
