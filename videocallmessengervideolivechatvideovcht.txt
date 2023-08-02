@@ -12,20 +12,19 @@
 ""
 ],
 "admob_appopen_ad_id": [
-"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_openapp"
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_APPOPEN"
 ],
 "admob_banner_ad_id": [
-"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_banner"
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_BAN"
 ],
 "admob_bottom_native_ad_id": [
-"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_NAT"
 ],
 "admob_interstitial_ad_id": [
-"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_INT",
-"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_interstitial"
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_INT"
 ],
 "admob_native_ad_id": [
-"/22798352804,22854404648/CI_videocall.messengervideo.livechat.videovcht_native"
+"/22670542496/videocall.messengervideo.livechat.videovcht/videocall.messengervideo.livechat.videovcht_NAT"
 ],
 "orginic_ads_type": "admob",
 "orginic_bottom_ads_type": "nativebanner",
