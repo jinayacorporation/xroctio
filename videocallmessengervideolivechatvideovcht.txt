@@ -77,7 +77,7 @@
 "quizzo_show": false,
 "quizzo_header_show": false,
 "redirect": false,
-"id_failed_load_or_not": false,
+"id_failed_load_or_not": true,
 "gallery_show": false,
 "video_call_show": true,
 "video_player_show": true,
