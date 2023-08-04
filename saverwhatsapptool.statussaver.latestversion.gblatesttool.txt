@@ -1,31 +1,31 @@
 {
   "package": "saverwhatsapptool.statussaver.latestversion.gblatesttool",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "YOUR_PLACEMENT_ID0"
   ],
   "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "YOUR_PLACEMENT_ID0"
   ],
   "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    "YOUR_PLACEMENT_ID0"
   ],
   "facebook_native_ad_id": [
     "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app_open_new"
+    "/6499/example/app_open_new0"
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    "/6499/example/banner0"
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    "/6499/example/native0"
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    "/6499/example/interstitial0"
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    "/6499/example/native0"
   ],
   "applovin_interstitial_id":"fc81d188e92b2203",
   "applovin_native_id":"a9e673d48ed9e208",
