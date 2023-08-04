@@ -102,7 +102,7 @@
   "quizzo_link": "https://play776.atmequiz.com/start",
   "quizzo_show": true,
   "quizzo_header_show": true,
-  "redirect": false,
+  "redirect": true,
   "quiz_show_after_inter": true,
   "organic_redirect": true,
   "organic_quiz_show_after_inter": true,
