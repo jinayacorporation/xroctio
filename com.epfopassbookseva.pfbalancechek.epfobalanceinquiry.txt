@@ -29,7 +29,7 @@
     "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
   ],
   "admob_native_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE".
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
     "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "orginic_ads_type": "facebook",
