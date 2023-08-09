@@ -79,7 +79,7 @@
   "admob_native_context_text_color": "#000000",
   "analytics": false,
   "direct_chat": true,
-  "designer_font": true,
+  "designer_font": false,
   "search_profile": false,
   "main_designer_font": true,
   "export_contact": false,
