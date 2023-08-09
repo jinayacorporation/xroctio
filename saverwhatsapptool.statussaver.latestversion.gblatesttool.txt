@@ -1,31 +1,31 @@
 {
   "package": "saverwhatsapptool.statussaver.latestversion.gblatesttool",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app_open_new"
+    ""
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "applovin_interstitial_id":"fc81d188e92b2203",
   "applovin_native_id":"a9e673d48ed9e208",
@@ -66,12 +66,6 @@
   "app_open_interstitial_back_click": "0",
   "one_id_load_thay_hoy_ne": true,
   "facebook_back_ads_not_show": false,
-  "is_live": true,
-  "gallery_show": true,
-  "video_call_show": true,
-  "video_player_show": true,
-  "downloader_show": true,
-  "privacy_screen": true,
   "emergency": false,
   "version_code": "1",
   "version_name": "1",
@@ -92,8 +86,6 @@
   "bulk_message": true,
   "application_id": "dsfsf",
   "ads_free": false,
-  "coming_soon": true,
-  "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
   "starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
@@ -110,7 +102,5 @@
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
-  "adapter_ads_type": "native",
-  "app_certificate": "b162db84a6364e9ea1c65bb3e68157a3",
-  "agora_app_id": "18b95c0e05714c71b28490bbda46205c"
+  "adapter_ads_type": "native"
 }
