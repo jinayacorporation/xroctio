@@ -1,36 +1,31 @@
 {
   "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
   "facebook_banner_ad_id": [
-    "806983300884261_806985130884078"
+    ""
   ],
   "facebook_bottom_native_ad_id": [
-    "806983300884261_806985207550737"
+    ""
   ],
   "facebook_interstitial_ad_id": [
-    "806983300884261_806985174217407"
+    ""
   ],
   "facebook_native_ad_id": [
-    "806983300884261_806985207550737"
+    ""
   ],
   "admob_appopen_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/APP_OPEN",
-    "/22798352804,22854404648/CW_com.epfopassbook_OpenApp"
+    ""
   ],
   "admob_banner_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/BANNER",
-    "/22798352804,22854404648/CW_com.epfopassbook_Banner"
+    ""
   ],
   "admob_bottom_native_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
-    "/22798352804,22854404648/CW_com.epfopassbook_Native"
+    ""
   ],
   "admob_interstitial_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/INTERSTITIAL",
-    "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
+    ""
   ],
   "admob_native_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
-    "/22798352804,22854404648/CW_com.epfopassbook_Native"
+    ""
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
