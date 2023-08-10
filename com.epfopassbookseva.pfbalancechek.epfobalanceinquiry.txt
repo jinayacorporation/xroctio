@@ -13,23 +13,23 @@
     "806983300884261_806985207550737"
   ],
   "admob_appopen_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/APP_OPEN",
+    "/6499/example/app_open_new",
     "/22798352804,22854404648/CW_com.epfopassbook_OpenApp"
   ],
   "admob_banner_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/BANNER",
+    "/6499/example/banner",
     "/22798352804,22854404648/CW_com.epfopassbook_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/6499/example/native",
     "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "admob_interstitial_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/INTERSTITIAL",
+    "/6499/example/interstitial",
     "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
   ],
   "admob_native_ad_id": [
-    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/6499/example/native",
     "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "orginic_ads_type": "facebook",
