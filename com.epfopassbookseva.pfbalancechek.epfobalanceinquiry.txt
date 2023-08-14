@@ -1,31 +1,37 @@
 {
   "pacakage": "com.epfopassbookseva.pfbalancechek.epfobalanceinquiry",
-  "facebook_banner_ad_id": [
-    ""
+  
+ "facebook_banner_ad_id": [
+    "806983300884261_806985130884078"
   ],
   "facebook_bottom_native_ad_id": [
-    ""
+    "806983300884261_806985207550737"
   ],
   "facebook_interstitial_ad_id": [
-    ""
+    "806983300884261_806985174217407"
   ],
   "facebook_native_ad_id": [
-    ""
+    "806983300884261_806985207550737"
   ],
   "admob_appopen_ad_id": [
-    ""
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/APP_OPEN",
+    "/22798352804,22854404648/CW_com.epfopassbook_OpenApp"
   ],
   "admob_banner_ad_id": [
-    ""
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/BANNER",
+    "/22798352804,22854404648/CW_com.epfopassbook_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    ""
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/INTERSTITIAL",
+    "/22798352804,22854404648/CW_com.epfopassbook_Interstitial"
   ],
   "admob_native_ad_id": [
-    ""
+    "/22670542496/com.epfopassbookseva.pfbalancechek.epfobalanceinquiry/NATIVE",
+    "/22798352804,22854404648/CW_com.epfopassbook_Native"
   ],
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
@@ -37,9 +43,9 @@
   "orginic_facebook_banner_ads_click": 1,
   "orginic_ads_show_type": "load",
   "orginic_native_banner_show": true,
-  "orginic_ads_click": 0,
-  "orginic_back_click": 0,
-  "orginic_native_page_wise": 0,
+  "orginic_ads_click": 1,
+  "orginic_back_click": 2,
+  "orginic_native_page_wise": 1,
   "orginic_bottom_page_wise": 0,
   "orginic_app_open_interstitial_show": "false",
   "orginic_app_open_interstitial_ads_click": "0",
@@ -81,11 +87,11 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#000000",
   "analytics": false,
-  "ads_free": true,
+  "ads_free": false,
   "coming_soon": false,
   "update_coming_soon": false,
   "ads_failed_load_hoy_ne": false,
-  "starting_screen_content_show": 0,
+  "starting_screen_content_show": 1,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
@@ -95,8 +101,8 @@
   "redirect": false,
   "quiz_show_after_inter": false,
   "organic_redirect": true,
-  "organic_quiz_show_after_inter": false,
-  "organic_starting_screen_content_show": 0,
+  "organic_quiz_show_after_inter": true,
+  "organic_starting_screen_content_show": 5,
   "Update_url": "",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
