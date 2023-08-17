@@ -67,13 +67,7 @@
   "app_open_interstitial_ads_click": "0",
   "app_open_interstitial_back_click": "0",
   "one_id_load_thay_hoy_ne": true,
-  "facebook_back_ads_not_show": false,
-  "is_live": true,
-  "gallery_show": true,
-  "video_call_show": true,
-  "video_player_show": true,
-  "downloader_show": true,
-  "privacy_screen": true,
+  "facebook_back_ads_not_show": false, 
   "emergency": false,
   "version_code": "1",
   "version_name": "1",
@@ -105,7 +99,5 @@
   "Update_url": "",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
-  "adapter_ads_type": "native",
-  "app_certificate": "b162db84a6364e9ea1c65bb3e68157a3",
-  "agora_app_id": "18b95c0e05714c71b28490bbda46205c"
+  "adapter_ads_type": "native"
 }
