@@ -1,31 +1,31 @@
 {
   "package": "saverwhatsapptool.statussaver.latestversion.gblatesttool",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID"
+    ""
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app_open_new"
+    ""
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    ""
   ],
   "applovin_interstitial_id":"fc81d188e92b2203",
   "applovin_native_id":"a9e673d48ed9e208",
@@ -85,9 +85,9 @@
   "export_contact": false,
   "bulk_message": false,
   "application_id": "dsfsf",
-  "ads_free": false,
+  "ads_free": true,
   "ads_failed_load_hoy_ne": false,
-  "starting_screen_content_show": 5,
+  "starting_screen_content_show": 1,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
