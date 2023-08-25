@@ -27,9 +27,9 @@
   "admob_native_ad_id": [
     ""
   ],
-  "applovin_interstitial_id":"fc81d188e92b2203",
-  "applovin_native_id":"a9e673d48ed9e208",
-  "applovin_banner_id":"9118f9db672363bb",
+  "applovin_interstitial_id":"d117fe108f703246",
+  "applovin_native_id":"b27518801b8d02bb",
+  "applovin_banner_id":"5c39727dd639bf65",
   "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
   "orginic_facebook_page_wise": false,
