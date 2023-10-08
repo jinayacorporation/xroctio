@@ -1,25 +1,11 @@
 {
-    "app_name": "EasyRupee",
+    "app_name": "Make Money",
     "privacy_policy_url": "https://example.com/privacy_policy",
     "terms_and_condition_url": "https://example.com/terms_and_conditions",
     "module_selection": 1,
-    "first_scratch_ad_selection": "fb",
-    "first_scratch_limit": "60",
-    "second_scratch_ad_selection": "fb",
-    "second_scratch_limit": "60",
-    "third_scratch_ad_selection": "applovin",
-    "third_scratch_limit": "60",
-    "spin_ad_selection": "fb",
-    "spin_limit": "45",
-    "show_wallet": true,
-    "show_ad_in_spintowin": true,
     "first_upi_id": "63280114336.payswiff@indus",
-    "second_upi_id": "63280114336.payswiff@indus",
     "upi_name": "amit",
     "upi_note": "Add money from upi",
-    "coins_to_currency": "India 15000 Points = 600 INR",
-    "coins_to_usd_currency": "Other Country 15000 Points = 60 USD",
     "minimum_redeem_points": "Minimum Redeem Points\n15000",
-    "minimum_points": "15000",
-    "qureka_url": "https://www.youtube.com/"
+    "minimum_points": "15000"
 }
