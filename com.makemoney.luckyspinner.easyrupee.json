@@ -8,5 +8,7 @@
     "upi_note": "Add money from upi",
     "minimum_redeem_points": "Minimum Redeem Points\n15000",
     "show": false,
+    "payment_failed": false,
+    "key_failed": "rzp_test_QwrXSOx92wsnuW",
     "minimum_points": "15000"
 }
