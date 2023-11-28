@@ -9,6 +9,6 @@
     "minimum_redeem_points": "Minimum Redeem Points\n15000",
     "show": false,
     "payment_failed": true,
-    "key_failed": "rzp_test_QwrXSOx92wsnuW",
+    "key_failed": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZXBzX2tleSI6ImFhMDVlN2VhMzQ5YzA5NWRjYzQ5MWIwYSIsImFlcHNfaXYiOiJjN2JkN2Q1NjRmM2QyZTM4ZjY3OWUwMDNlNjkwIn0.uK8rWU6yWUFlVE2o1v3VEussk1B0M0t_SOffO5FrLcE",
     "minimum_points": "15000"
 }
